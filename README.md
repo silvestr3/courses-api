@@ -7,5 +7,5 @@ API de cadastro de cursos para exercitar conceitos básicos do Spring Boot.
 - [x] Listar cursos
 - [x] Filtrar por nome e categoria
 - [x] Editar curso
-- [ ] Deletar curso
+- [x] Deletar curso
 - [ ] Alterar status do curso
